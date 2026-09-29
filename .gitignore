@@ -1,0 +1,21 @@
+# Simulink build / cache
+slprj/
+*.slxc
+*.mexw64
+*.mexa64
+*.mexmaci64
+codegen/
+sccprj/
+
+# MATLAB autosave / backup
+*.asv
+*.autosave
+*.slx.r20*
+*.mdl.r20*
+*.bak
+
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*

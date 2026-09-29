@@ -1,0 +1,23 @@
+# Keep CAD / simulation files byte-for-byte (no line-ending conversion)
+*.CATPart     binary
+*.catpart     binary
+*.CATProduct  binary
+*.catproduct  binary
+*.CATDrawing  binary
+*.slx         binary
+*.stp         binary
+*.STP         binary
+*.step        binary
+*.STEP        binary
+*.stl         binary
+*.STL         binary
+*.3mf         binary
+*.ork         binary
+*.eng         binary
+*.rse         binary
+*.wbpj        binary
+*.wbdp        binary
+*.wbjn        binary
+*.dat         binary
+*.hwp         binary
+*.hwpx        binary
